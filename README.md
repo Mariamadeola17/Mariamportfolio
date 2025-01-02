@@ -1,19 +1,14 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 馃, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
-
+Hello! I’m Mariam Adeola, a passionate data analyst with a strong foundation in transforming raw data into actionable insights. I thrive on the challenge of uncovering trends and patterns that drive informed decision-making  and identify opportunities for growth.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- 鉁� Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- 鉁� Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+My analytical journey is fueled by a curiosity to explore complex datasets and a commitment to delivering clear, impactful visualizations. I excel at using Excel for data manipulation and analysis, applying statistical methods to derive meaningful conclusions, and leveraging SQL to efficiently query databases. Additionally, my proficiency in Power Bi and Tableau allows me to create dynamic dashboards that effectively communicate findings to stakeholders.
+I believe that data tells a story, and I am dedicated to helping organizations harness the power of their data to achieve their goals. Whether it’s through developing comprehensive reports or presenting insights in an engaging manner, I aim to bridge the gap between data and strategic action.
+Let’s connect and explore how I can contribute to your data-driven projects.
 
 
 <!--Section 2: List 3-4 key projects-->

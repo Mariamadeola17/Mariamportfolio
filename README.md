@@ -24,13 +24,7 @@ The company’s sales volume and growth rate in 2020 were higher compare to indu
 
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](assets/BEYOND CAR LTD [Autosaved] 1.pdf)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 

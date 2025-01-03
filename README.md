@@ -17,7 +17,6 @@ Let’s connect and explore how I can contribute to your data-driven projects.
 *A glimpse of some of the projects I've been working on.*
 
 **Sales Performance Analysis for Beyond Cars Limited.**
-![image](1 anietie etuk data analytics car project.jpeg)
 
 ![ca](https://github.com/user-attachments/assets/d418cbb9-85ee-4da2-9db4-86c5cac07a2c)
 

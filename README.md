@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef7c1b0d-bdce-480f-a143-ddce119cb259)<!--Section 1: Introduce your self-->
+<!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I’m Mariam Adeola, a passionate data analyst with a strong foundation in transforming raw data into actionable insights. I thrive on the challenge of uncovering trends and patterns that drive informed decision-making  and identify opportunities for growth.
@@ -23,9 +23,6 @@ Let’s connect and explore how I can contribute to your data-driven projects.
 The company’s sales volume and growth rate in 2020 were higher compare to industry averages.
 
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion 
-![image](https://github.com/user-attachments/assets/417d7d21-dd8e-400b-940b-b589a2a60f32)
-
-
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 

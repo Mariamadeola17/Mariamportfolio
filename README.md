@@ -1,4 +1,4 @@
-<!--Section 1: Introduce your self-->
+![image](https://github.com/user-attachments/assets/ef7c1b0d-bdce-480f-a143-ddce119cb259)<!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I’m Mariam Adeola, a passionate data analyst with a strong foundation in transforming raw data into actionable insights. I thrive on the challenge of uncovering trends and patterns that drive informed decision-making  and identify opportunities for growth.
@@ -16,13 +16,17 @@ Let’s connect and explore how I can contribute to your data-driven projects.
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Sales Performance Analysis for Beyond Cars Limited.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+![ca](https://github.com/user-attachments/assets/d418cbb9-85ee-4da2-9db4-86c5cac07a2c)
+
+The company’s sales volume and growth rate in 2020 were higher compare to industry averages.
+
+With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion 
+![image](https://github.com/user-attachments/assets/417d7d21-dd8e-400b-940b-b589a2a60f32)
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 

@@ -24,7 +24,7 @@ The company’s sales volume and growth rate in 2020 were higher compare to indu
 
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion 
 
-[Read More](assets/BEYOND CAR LTD [Autosaved] 1.pdf)
+[Read More](https://github.com/Mariamadeola17/Mariamportfolio/blob/main/assets/BEYOND%20CAR%20LTD%20ANALYSIS%20REPORT%20PDF.pdf)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 

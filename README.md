@@ -24,7 +24,7 @@ The company’s sales volume and growth rate in 2020 were higher compare to indu
 
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion 
 
-[Read more](assets/Ashka/store/sale/pdf.pdf) 
+[Read more](assets/Ashka-store-sale-pdf.pdf) 
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 

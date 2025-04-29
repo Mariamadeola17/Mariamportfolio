@@ -16,7 +16,7 @@ Let’s connect and explore how I can contribute to your data-driven projects.
 
 *A glimpse of some of the projects I've been working on.*
 
-**Sales Performance Analysis for Beyond Cars Limited.**
+**Sales Performance Analysis**
 
 ![ca](https://github.com/user-attachments/assets/d418cbb9-85ee-4da2-9db4-86c5cac07a2c)
 
@@ -26,7 +26,13 @@ With the increasing demand, we have identified opportunities and proposed strate
 
 [Read more](assets/Beyond-car-analysis-report.pdf) 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Conversion Rate Analysis**
+
+![CVV](https://github.com/user-attachments/assets/56599a46-8ac0-44ec-b0e5-ba91b63c4d19)
+
+The existing marketing and sales system of the company should be overhauled!
+
+[Read More](assets/Conversion rate analysis report pdf.pdf)   
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 

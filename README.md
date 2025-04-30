@@ -1,4 +1,4 @@
-<!--Section 1: Introduce your self-->
+![image](https://github.com/user-attachments/assets/4f9648f6-a8b9-4577-85ee-ec3e0d2683e5)<!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I’m Mariam Adeola, a passionate data analyst with a strong foundation in transforming raw data into actionable insights. I thrive on the challenge of uncovering trends and patterns that drive informed decision-making  and identify opportunities for growth.
@@ -24,7 +24,7 @@ The company’s sales volume and growth rate in 2020 were higher compare to indu
 
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion 
 
-[Read more](assets/Beyond-car-analysis-report.pdf) 
+[Read More](assets/Beyond-car-analysis-report.pdf) 
 
 **Conversion Rate Analysis**
 
@@ -32,13 +32,17 @@ With the increasing demand, we have identified opportunities and proposed strate
 
 The existing marketing and sales system of the company should be overhauled!
 
-[Read More](assets/Conversion rate analysis report pdf.pdf)   
+[Read More](assets/Conversion-rate-analysis-report.pdf)   
 
-![image](3 anietie etuk data analytics agro project.jpg)
+**Sales Profit Analysis**
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+![bkbvbb](https://github.com/user-attachments/assets/f6d50baf-803a-4a37-89d6-53e16d8e3272)
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+The company’s profit and growth rate in 2018 was lower than expected.
+
+This analysis has also identified potential areas for improvement. By implementing a few strategic changes, I believe we can significantly enhance the company’s financial performance and drive growth. 
+
+[Read More](assets/Ashka-store-sale.pdf)
 
 
 ## CONTACT DETAILS

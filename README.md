@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4f9648f6-a8b9-4577-85ee-ec3e0d2683e5)<!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I’m Mariam Adeola, a passionate data analyst with a strong foundation in transforming raw data into actionable insights. I thrive on the challenge of uncovering trends and patterns that drive informed decision-making  and identify opportunities for growth.

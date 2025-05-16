@@ -76,4 +76,4 @@ This analysis has also identified potential areas for improvement. By implementi
   </tbody>
 </table>
 
-</table>
+

@@ -67,7 +67,7 @@ This analysis has also identified potential areas for improvement. By implementi
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[www.linkedin.com/in/mariam-adeola2025](https://github.com/Mariamadeola17/Mariamportfolio/blob/bdce7765a5e23f63359439417fd2512b1579abb9/Links)">The things I do daily on LinkedIn</a></td>
+      <td><a href="Links">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
      

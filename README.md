@@ -70,16 +70,10 @@ This analysis has also identified potential areas for improvement. By implementi
       <td><a href="www.linkedin.com/in/mariam-adeola2025">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+     
+      
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
 
 </table>

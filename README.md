@@ -43,6 +43,11 @@ This analysis has also identified potential areas for improvement. By implementi
 
 [Read More](assets/Ashka-store-sale.pdf)
 
+**HR Analysis**
+
+![hr dashbord](https://github.com/user-attachments/assets/9bfb324a-df2b-4d66-864a-2eeffbc9b56f)
+
+**Statistical Analysis for market value of housing units**
 
 ## CONTACT DETAILS
 

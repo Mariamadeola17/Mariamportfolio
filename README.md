@@ -68,6 +68,10 @@ This analysis has also identified potential areas for improvement. By implementi
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/mariam-adeola2025">The things I do daily on LinkedIn</a></td>
+      ## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/mariamadeola)
+
     </tr>
     <tr>
      

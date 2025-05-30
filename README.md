@@ -49,6 +49,10 @@ This analysis has also identified potential areas for improvement. By implementi
 
 **Statistical Analysis for market value of housing units**
 
+When the housing unit is in the Northeast region of the country, then the market value tends to be lower by 13.50% as compared to a similar housing unit being in the West region, all other variables being kept at the same level.
+
+[Read More]
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*

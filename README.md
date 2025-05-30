@@ -77,6 +77,6 @@ When the housing unit is in the Northeast region of the country, then the market
     <tr>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/mariam-adeola2025">The things I do daily on LinkedIn</a></td>
-    <tr>
+    </tr>
   </tbody>
 </table>

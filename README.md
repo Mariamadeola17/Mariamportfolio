@@ -49,9 +49,14 @@ This analysis has also identified potential areas for improvement. By implementi
 
 **Statistical Analysis for market value of housing units**
 
+All p-values are below .05, indicating that all coefficients are statistically significant.
+
 When the housing unit is in the Northeast region of the country, then the market value tends to be lower by 13.50% as compared to a similar housing unit being in the West region, all other variables being kept at the same level.
 
 [Read More](assets/HOUSING-2013-3.xlsx)
+
+<a href="https://drive.google.com/drive/folders/1KcaHQV1X3DT3bhZ9MD3k5Nsrw1GNYLFW">My Certificates</a>
+
 
 ## CONTACT DETAILS
 

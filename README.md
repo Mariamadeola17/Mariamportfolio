@@ -51,7 +51,7 @@ This analysis has also identified potential areas for improvement. By implementi
 
 When the housing unit is in the Northeast region of the country, then the market value tends to be lower by 13.50% as compared to a similar housing unit being in the West region, all other variables being kept at the same level.
 
-[Read More]
+[Read More](assets/HOUSING-2013-3.xlsx)
 
 ## CONTACT DETAILS
 

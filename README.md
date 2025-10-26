@@ -79,7 +79,7 @@ When the housing unit is in the Northeast region of the country, then the market
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="assets/MARIAM_ABASS_CV_2.pdf">Download my CV</a></td>
+      <td><a href="assets/MY-CV-2025.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>

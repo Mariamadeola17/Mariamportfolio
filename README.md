@@ -55,6 +55,8 @@ When the housing unit is in the Northeast region of the country, then the market
 
 [Read More](assets/HOUSING-2013-3.xlsx)
 
+[SEE MY SQL DATA CLEANING PROJECT](https://github.com/Mariamadeola17/SQL-DATA-CLEANING)
+
 <a href="https://drive.google.com/drive/folders/1KcaHQV1X3DT3bhZ9MD3k5Nsrw1GNYLFW">My Certificates</a>
 
 
